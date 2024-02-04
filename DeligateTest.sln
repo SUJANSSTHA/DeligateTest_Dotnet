@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeligateTest", "DeligateTest\DeligateTest.csproj", "{AE2CB99D-98E2-4CB1-9831-0AE0640FE9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2CB99D-98E2-4CB1-9831-0AE0640FE9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2CB99D-98E2-4CB1-9831-0AE0640FE9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2CB99D-98E2-4CB1-9831-0AE0640FE9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2CB99D-98E2-4CB1-9831-0AE0640FE9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E8A989-0129-4B6E-B16F-E3E6B651F882}
+	EndGlobalSection
+EndGlobal
